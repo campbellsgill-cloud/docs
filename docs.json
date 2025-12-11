@@ -48,6 +48,25 @@
         ]
       },
       {
+        "tab": "Integrations",
+        "groups": [
+          {
+            "group": "Punchout",
+            "pages": [
+              "essentials/punchout-overview",
+              "essentials/punchout-setup"
+            ]
+          },
+          {
+            "group": "e-Invoicing",
+            "pages": [
+              "essentials/e-invoicing-overview",
+              "essentials/e-invoicing-setup"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API reference",
         "groups": [
           {
