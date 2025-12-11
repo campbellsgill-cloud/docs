@@ -65,15 +65,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API reference",
-            "openapi": "product-search.json"
-          }
-        ]
       }
     ],
     "global": {
