@@ -71,7 +71,7 @@
         "groups": [
           {
             "group": "API reference",
-            "openapi": "openapi.json"
+            "openapi": "/api-reference/openapi.json"
           }
         ]
       }
